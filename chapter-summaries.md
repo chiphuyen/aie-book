@@ -4,7 +4,7 @@ These are the summaries of each chapter taken from the book. Some of the summari
 
 * [Chapter 1. Introduction to Building AI Applications with Foundation Models](#chapter-1-introduction-to-building-ai-applications-with-foundation-models)
 * [Chapter 2. Understanding Foundation Models](#chapter-2-understanding-foundation-models)
-* [Chapter 3. Chapter 3. Evaluation Methodology](#chapter-3-evaluation-methodology)
+* [Chapter 3. Evaluation Methodology](#chapter-3-evaluation-methodology)
 * [Chapter 4. Evaluate AI Systems](#chapter-4-evaluate-ai-systems)
 * [Chapter 5. Prompt Engineering](#chapter-5-prompt-engineering)
 * [Chapter 6. RAG and Agents](#chapter-6-rag-and-agents)
