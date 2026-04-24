@@ -26,7 +26,7 @@ If there are resources that you've found helpful but not yet included, feel free
 ## ML Theory Fundamentals
 While you don't need an ML background to start building with foundation models, a rough understanding of how AI works under the hood is useful to prevent misuse. Familiarity with ML theory will make you much more effective.
 
-1. [Lecture notes] [Stanford CS 321N](https://cs231n.github.io/): a longtime favorite introductory course on neural networks.
+1. [Lecture notes] [Stanford CS231N](https://cs231n.github.io/): a longtime favorite introductory course on neural networks.
     
     - [Videos] I'd recommend watching lectures 1 to 7 from the 2017 course [video recordings](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv). They cover the fundamentals that haven't changed.
     - [Videos] Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) is more hands-on where he shows how to implement several models from scratch.
