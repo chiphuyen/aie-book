@@ -1,4 +1,4 @@
-# Translations for AI Engineering
+# Translations of AI Engineering
 
 |  |  |
 | -- | -- |
