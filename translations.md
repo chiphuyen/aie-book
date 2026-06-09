@@ -1,7 +1,7 @@
 # Translations for AI Engineering
 
-| Cover | Translation |
-| --- | --- |
+|  |  |
+| -- | -- |
 | <img src="assets/covers/japanese-9784814401383.jpeg" alt="Japanese cover for AIエンジニアリング" width="120"> | **Japanese**<br>**Title:** *AIエンジニアリング ―基盤モデルを用いたAIアプリケーション開発の基礎と実践*<br>**Publisher:** O'Reilly Japan Inc.<br>**Publication date:** November 26, 2025<br>**ISBN:** 9784814401383<br>**Links:** [O'Reilly Japan](https://www.oreilly.co.jp/books/9784814401383/) |
 | <img src="assets/covers/korean-9791169214278.jpg" alt="Korean cover for AI 엔지니어링" width="120"> | **Korean**<br>**Title:** *AI 엔지니어링: 파운데이션 모델을 활용한 시스템 설계부터 개선까지, AI 앱 개발 원스톱 가이드*<br>**Publisher:** Hanbit<br>**Publication date:** September 30, 2025<br>**ISBN:** 9791169214278<br>**Links:** [Hanbit](https://www.hanbit.co.kr/store/books/look.php?p_code=B3535685426), [YES24](https://www.yes24.com/product/goods/154925812) |
 | <img src="assets/covers/chinese-complex-9786264251358.jpg" alt="Traditional Chinese cover for AI工程" width="120"> | **Chinese, Traditional**<br>**Title:** *AI工程：從基礎模型建構應用*<br>**Publisher:** GoTop Information Inc.<br>**Publication date:** August 25, 2025<br>**ISBN:** 9786264251358<br>**Links:** [GoTop](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=A806), [Sanmin](https://www.sanmin.com.tw/product/index/014773424) |
