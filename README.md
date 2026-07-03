@@ -24,8 +24,14 @@ The book is available on:
 - [Amazon](https://amzn.to/49j1cGS)
 - [O'Reilly](https://oreillymedia.pxf.io/c/5719111/2146021/15173)
 - [Kindle](https://amzn.to/3Vq2ryu)
+- [Audible](https://www.audible.com/pd/AI-Engineering-Audiobook/B0DWJ1SP94?qid=1781010240)
 
 and most places where technical books are sold.
+
+It's been [translated](translations.md) into: [Japanese](https://www.oreilly.co.jp/books/9784814401383/), [Korean](https://www.hanbit.co.kr/store/books/look.php?p_code=B3535685426), [Chinese Traditional](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=A806), [Chinese Simplified](https://product.dangdang.com/30013700.html), [Vietnamese](https://shop.timescorporation.vn/sach-ky-thuat-ai-xay-dung-ung-dung-voi-mo-hinh-nen-tac-gia-chip-huyen), [Spanish](https://bit.ly/4piliIn), [Italian](https://www.amazon.it/-/en/Ingegneria-Dellia-Italian-Applicazioni-Fondazione/dp/B0GM5V47D7/), [French](https://www.lisez.com/livres/ingenierie-de-lia/9782412104415), [Portuguese](https://novatec.com.br/livros/engenharia-de-ia/), [German](https://dpunkt.de/produkt/generative-ki-systeme-entwickeln/), [Thai](https://www.naiin.com/product/detail/694038), [Russian](https://www.flip.kz/catalog?prod=5764935), and [Polish](https://helion.pl/ksiazki/inzynieria-ai-tworzenie-aplikacji-z-wykorzystaniem-modeli-bazowych-chip-huyen,inaitw.htm#format/d).
+
+It'll soon be available in Greek, Ukrainian, and Uzbek.
+
 
 _This is NOT a tutorial book, so it doesn't have a lot of code snippets._
 
