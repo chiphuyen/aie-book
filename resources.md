@@ -357,14 +357,14 @@ I also have an older post [A friendly introduction to machine learning compilers
 ## Chapter 10. AI Engineering Architecture and User Feedback
 
 1. [Chapter 4: Monitoring](https://sre.google/workbook/monitoring/) from Google SRE Book
-1. [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) (Microsoft Research)
+2. [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) (Microsoft Research)
     
     Microsoft proposed 18 design guidelines for human-AI interaction, covering decisions before development, during development, when something goes wrong, and over time.
-1. [Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models](https://arxiv.org/abs/2308.15812v3) (Bansal et al., 2023)
+3. [Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models](https://arxiv.org/abs/2308.15812v3) (Bansal et al., 2023)
     
     A study on how the feedback protocol influences a model's training performance.
-1. [Feedback-Based Self-Learning in Large-Scale Conversational AI Agents](https://arxiv.org/abs/1911.02557) (Ponnusamy et al., Amazon 2019)
-1. [A scalable framework for learning from implicit user feedback to improve natural language understanding in large-scale conversational AI systems](https://arxiv.org/abs/2010.12251) (Park et al., Amazon 2020)
+4. [Feedback-Based Self-Learning in Large-Scale Conversational AI Agents](https://arxiv.org/abs/1911.02557) (Ponnusamy et al., Amazon 2019)
+5. [A scalable framework for learning from implicit user feedback to improve natural language understanding in large-scale conversational AI systems](https://arxiv.org/abs/2010.12251) (Park et al., Amazon 2020)
 
 User feedback design for conversation AI is an under-researched area so there aren't many resources yet, but I hope to see that will soon change.
 
