@@ -368,7 +368,27 @@ I also have an older post [A friendly introduction to machine learning compilers
 
 User feedback design for conversation AI is an under-researched area so there aren't many resources yet, but I hope to see that will soon change.
 
-
+## Chapter 11. AI Ethics, Responsiblity, Accoutability 
+Explore how companies, organizations are creating safety measures and avoid mis-use of AI.
+1. OpenAI https://openai.com/safety/
+2. Google https://ai.google/responsibility/principles/
+3. Meta/Facebook https://ai.meta.com/responsible-ai/
+4. Microsoft https://www.microsoft.com/en-us/ai/responsible-ai
+5. https://www.responsible.ai/
+6. Amazon https://aws.amazon.com/ai/responsible-ai/
+7. https://www.dhs.gov/ai/ensuring-ai-is-used-responsibly
+8. https://www.whitehouse.gov/ostp/ai-bill-of-rights/#safe
+9. https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
+10. https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/
+11. https://www.ncsl.org/technology-and-communication/artificial-intelligence-2024-legislation
+12. https://www.state.gov/freedom-online-coalition-joint-statement-on-responsible-government-practices-for-ai-technologies/
+13. https://iapp.org/resources/article/us-federal-ai-governance/
+14. https://epic.org/the-state-of-state-ai-laws-2023/
+15. https://www.csg.org/2023/12/06/artificial-intelligence-in-the-states-emerging-legislation/
+16. https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/overview
+17. https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence
+18. https://iapp.org/resources/article/global-ai-legislation-tracker/
+   
 ## Bonus: Organization engineering blogs
 
 I enjoy reading good technical blogs. Here are some of my frequent go-to engineering blogs.
